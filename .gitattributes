@@ -1,1 +1,5 @@
+ HEAD
 .html filter=lfs diff=lfs merge=lfs -text
+
+.jpg filter=lfs diff=lfs merge=lfs -text
+732aa98d26f27ff517029741873205dcf78b1e18
